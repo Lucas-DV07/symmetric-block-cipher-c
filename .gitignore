@@ -1,0 +1,13 @@
+# Executáveis
+cifra
+*.exe
+*.out
+
+# Arquivos gerados nos testes
+*.cifrado
+arquivo_final.txt
+
+# IDE / sistema
+.vscode/
+.idea/
+.DS_Store

@@ -1,6 +1,6 @@
 # Symmetric Block Cipher in C
 
-Projeto acadêmico desenvolvido no curso de Ciência da Computação com o objetivo de estudar, na prática, conceitos de criptografia simétrica e programação de baixo nível em C.
+Projeto pessoal desenvolvido no curso de Ciência da Computação com o objetivo de estudar, na prática, conceitos de criptografia simétrica e programação de baixo nível em C.
 
 ## Sobre o projeto
 
@@ -84,6 +84,3 @@ Arquivos são processados em blocos de 4 bytes. Para garantir que qualquer taman
 - validação de entrada;
 - depuração e testes de software.
 
-## Contexto acadêmico
-
-Projeto de Extensão desenvolvido durante o curso de Ciência da Computação, abordando conceitos de segurança da informação, criptografia simétrica e desenvolvimento em linguagem C.

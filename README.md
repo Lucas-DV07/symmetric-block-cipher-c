@@ -1,6 +1,6 @@
 # Symmetric Block Cipher in C
 
-Projeto pessoal desenvolvido no curso de Ciência da Computação com o objetivo de estudar, na prática, conceitos de criptografia simétrica e programação de baixo nível em C.
+Projeto pessoal desenvolvido com o objetivo de estudo de conceitos de criptografia simétrica e programação de nível em C.
 
 ## Sobre o projeto
 
